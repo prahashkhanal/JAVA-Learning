@@ -9,6 +9,11 @@
       <sourceFolder url="file://$MODULE_DIR$/Homework02_02/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/day 1" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Day 8/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scenario based questions/bank account management with exception" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scenario based questions/employee payroll system using switch case" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scenario based questions/library management system" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scenario based questions/online shopping cart" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scenario based questions/student grade management system" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
