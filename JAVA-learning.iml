@@ -5,10 +5,8 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/Day 5/class 02 feb/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2 march /DigitalBookshelf/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/20 March/Case Study: Payment Gateway System" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/20 March/Case four: Library Archive" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/20 March/Case study: Smart Home Ecosystem" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/20 March/Case three: Smart Logistics System" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/23 March/Case study: Telemedicine billing engine" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/23 March/Case Study: Autonomous Warehouse Fleet" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/16FebMonday" />
       <excludeFolder url="file://$MODULE_DIR$/Day 2" />
       <excludeFolder url="file://$MODULE_DIR$/Day 3" />
@@ -40,6 +38,11 @@
       <excludeFolder url="file://$MODULE_DIR$/Homework02_02/src" />
       <excludeFolder url="file://$MODULE_DIR$/out/production/JAVA-learning" />
       <excludeFolder url="file://$MODULE_DIR$/16Mar/Case study: The Multi-Tier Payroll System" />
+      <excludeFolder url="file://$MODULE_DIR$/20 March" />
+      <excludeFolder url="file://$MODULE_DIR$/20 March/Case Study: Payment Gateway System" />
+      <excludeFolder url="file://$MODULE_DIR$/20 March/Case four: Library Archive" />
+      <excludeFolder url="file://$MODULE_DIR$/20 March/Case study: Smart Home Ecosystem" />
+      <excludeFolder url="file://$MODULE_DIR$/20 March/Case three: Smart Logistics System" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

@@ -56,10 +56,10 @@ class Truck extends Transport {
 public class casethree {
     public static void main(String[] args) {
 
-        Transport t = new DeliverDrone("D101", "NY");
+        Transport t = new DeliverDrone("D101", "Strait of Hormuz");
         t.dispatch();
 
-        GPS g = new DeliverDrone("D101", "NY");
+        GPS g = new DeliverDrone("D101", "Lyari");
         g.pingServer();
 
         Transport truck = new Truck("T202", "Chicago");
